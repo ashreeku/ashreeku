@@ -1,3 +1,3 @@
-Website: https://thiswasnttaken.github.io/
+Website: https://ashreeku.github.io/
 
 Linkedin: https://www.linkedin.com/in/ananth-shreekumar/
